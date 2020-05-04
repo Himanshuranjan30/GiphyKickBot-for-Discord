@@ -1,0 +1,5 @@
+{
+    "prefix":"!",
+    "token":"" //enter your discord api token,
+    "giphy_token":"" // enter your giphy api token
+}
